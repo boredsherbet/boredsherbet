@@ -1,12 +1,24 @@
-# Hello Person... 
-### or politically correct term for robot?
+# Hello Person... or politically correct term for robot?
 
 # About Me!
-# Me & Github
-### A problematic and often one-sided relationship
-<!-- Github Stats Card: https://github.com/anuraghazra/github-readme-stats --->
-![Christian & Github](https://github-readme-stats.vercel.app/api?username=boredsherbet&count_private=true&show_icons=true&theme=mgithub-dark)
+I'm the head of NCYO (Nebraska Chess Youth Outreach Program), and COO at [Taste of India](https://www.omahatasteofindia.com/). Not really working on any HUGE side projects-- mostly because of school-- but I'm an avid [chess](https://www.chess.com/member/zorangepopcorn) player. Also I like ducks. 
 
-<!-- Visitor Counter by Ryan Lanciaux!--->
-only
-![Visitor Count](https://profile-counter.glitch.me/boredsherbet/count.svg) people have visited this page :(
+You can contact me here: [![Twitter](icons/twitter.svg)](https://twitter.com/boredsherbet)]
+### Stuff I'm learning
+
+### Stuff I sorta know
+
+### Cool other stuff...
+
+# Me & Github
+
+![Christian & Github](https://github-readme-stats.vercel.app/api?username=boredsherbet&count_private=true&show_icons=true&theme=github-dark)
+
+<!-- Recent activity: https://github.com/jamesgeorge007/github-activity-readme --->
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+*only*
+![Visitor Count](https://profile-counter.glitch.me/boredsherbet/count.svg) *people have visited this page :(*
