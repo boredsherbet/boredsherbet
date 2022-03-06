@@ -3,14 +3,7 @@
 # About Me!
 I'm the head of NCYO (Nebraska Chess Youth Outreach Program), and COO at [Taste of India](https://www.omahatasteofindia.com/). Not really working on any HUGE side projects-- mostly because of school-- but I'm an avid [chess](https://www.chess.com/member/zorangepopcorn) player. Also I like ducks. 
 
-You can contact me here: <img src="icons/twitter.svg" alt="Twitter" width="20" height="20" href="twitter.com/boredsherbet"/>
-
-### Stuff I'm learning
-
-### Stuff I sorta know
-
-### Cool other stuff...
-
+Find me on [Twitter](https://twitter.com/boredsherbet) or shoot me an [email](ccantony064@gmail.com)
 # Me & Github
 
 ![Christian & Github](https://github-readme-stats.vercel.app/api?username=boredsherbet&count_private=true&show_icons=true&theme=github-dark)
