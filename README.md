@@ -2,8 +2,6 @@
 # About Me!
 Finally trying to build some side projects 
 
-# Me & Github
-
 ![Christian & Github](https://github-readme-stats.vercel.app/api?username=boredsherbet&count_private=true&show_icons=true&theme=github-dark)
 
 <!-- Recent activity: https://github.com/jamesgeorge007/github-activity-readme --->
